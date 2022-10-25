@@ -1,0 +1,126 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+
+}
+
+.container {
+    display: flex;
+    margin-bottom: 20px;
+    padding-bottom: 10%;
+
+}
+
+h1 {
+    font-size: 80px;
+    text-shadow: #f4511e peru;
+}
+
+.text {
+    position: absolute;
+    bottom: 100px;
+    top: 100px;
+    left: 250px;
+    right: 250px;
+    color: rgb(249, 243, 243);
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.other{
+    text-decoration: none;
+    color: rgb(167, 160, 149);
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20%;
+}
+
+
+.all {
+    text-align: center;
+    font-size: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 10%;
+
+}
+
+.link-button {
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    font-size: 30px;
+    margin: 6px 4px;
+    opacity: 0.6;
+    transition: 0.3s;
+    padding-left: 10px;
+}
+
+.link-button:hover {
+    opacity: 1;
+}
+
+.a1 {
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    border: hidden;
+    
+}
+.our-donate-plan {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10%;
+}
+.third-part{
+    display: flex;
+
+}
+.fa-solid{
+    color: #f4511e;
+    font-size: 70px;
+}
+
+.fa-sharp{
+    color: #f4511e;
+        font-size: 70px;
+
+}
+.one-by-three-width{
+    width: 50%;
+    padding-left: 3%;
+    margin-right: 3%;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 3px;
+    background-color: #955f5fca;
+    
+}
+.two-by-three-width {
+    width: 50%;
+    padding-left: 3%;
+    margin-right: 3%;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 3px;
+    background-color: #719c72;
+
+}
+.three-by-three-width {
+    width: 50%;
+    padding-left: 3%;
+    margin-right: 3%;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 3px;
+    background-color: #a9d6547a;
+
+}
