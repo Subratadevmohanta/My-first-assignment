@@ -88,6 +88,7 @@ h1 {
 
 .third-part {
     display: flex;
+    padding-bottom: 200px;
 
 }
 
@@ -129,6 +130,27 @@ h1 {
     box-shadow: 2px 2px 2px 2px gray;
     border-radius: 3px;
     background-color: #a9d6547a;
+
+}
+
+.extra {
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 8%;
+    margin-left: 8%;
+
+}
+
+.hulf-width img {
+    width: 100%;
+    display: flex;
 
 }
 
